@@ -6,6 +6,12 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silham/remix-icon-snippets-for-html"
+  },
+  "icon": "icon.png",
+  "publisher": "Shakil Ilham",
   "categories": [
     "Snippets"
   ],
