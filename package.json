@@ -1,0 +1,20 @@
+{
+  "name": "remix-icon-snippets-for-html",
+  "displayName": "Remix Icon snippets for HTML",
+  "description": "An extension to easily add remix icon to web pages",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
